@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soting
-- 🌱 I’m currently starting my journey into learning to code and I'm super excited!
+- 🌱 I’m starting my journey in learning to code and I'm super excited!
 - 💞️ It's been a passion I've wanted to pursue for a long long time.
 - 📫 It's now time to begin. 
 
